@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647198034128",
+    "firebase_url": "https://mum-k4-3b16b.firebaseio.com",
+    "project_id": "mum-k4-3b16b",
+    "storage_bucket": "mum-k4-3b16b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647198034128:android:8266f4460be94a1620b6d5",
+        "android_client_info": {
+          "package_name": "com.mumbai.mum_k4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647198034128-s8uosjec2jd91fh8q1auhv4tc3alvf13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiPqinwRY_8D6RRNxG7dzO5-Q6asWzmPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647198034128-s8uosjec2jd91fh8q1auhv4tc3alvf13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
